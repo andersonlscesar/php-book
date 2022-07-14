@@ -17,5 +17,3 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 11. Variável Estática
 12. Variável Global
 
-
-
