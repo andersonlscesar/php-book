@@ -1,5 +1,5 @@
 <?php
-class Conta {
+abstract class Conta {
     protected $agencia;
     protected $conta;
     protected $saldo;
@@ -12,6 +12,12 @@ class Conta {
             $this->saldo = $saldo;
         }
     }
+
+    /**
+     * Criação de método abstrato para que seja obrigatório a implementação desse método em suas subclasses
+     */
+
+    abstract function retirar($quantia);
 
     public function getInfo() {
         return "Agência: {$this->agencia}, Conta: {$this->conta}";
