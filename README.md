@@ -27,5 +27,6 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 2. Polimorfismo
 3. Classes Abstratas e Finais
 4. Métodos Finais e Abstratos
-5. 
+5. Constantes de Classes
+6. Manipulando Objetos 
 
