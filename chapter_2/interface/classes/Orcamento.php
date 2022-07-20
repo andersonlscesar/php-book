@@ -2,7 +2,7 @@
 class Orcamento {
     private $itens;
     
-    public function adiciona(Produto $produto, $qtde) {
+    public function adiciona(OrcavelInterface $produto, $qtde) {
         $this->itens[] = array($qtde, $produto);
     }
 

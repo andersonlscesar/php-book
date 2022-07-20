@@ -1,12 +1,10 @@
 <?php
-class Produto implements OrcavelInterface {
+class Servico implements OrcavelInterface {
     private $descricao;
-    private $estoque;
     private $preco;
 
-    public function __construct($descricao, $estoque, $preco) {
+    public function __construct($descricao, $preco) {
         $this->descricao = $descricao;
-        $this->estoque = $estoque;
         $this->preco = $preco;
     }
 
