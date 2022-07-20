@@ -2,7 +2,7 @@
 
 Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP. :notebook:
 
-## Capítulo 01 
+## Capítulo 01  :white_check_mark:
 
 1. Argumentos Variáveis
 2. Funções Anônimas
