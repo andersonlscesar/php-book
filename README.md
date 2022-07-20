@@ -30,5 +30,5 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 5. Constantes de Classes
 6. Manipulando Objetos 
 7. Design Pattern
-    7.1. Singleton
+    - 7.1. Singleton
 
