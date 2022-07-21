@@ -16,3 +16,4 @@ $c1->addItem($p1 = new Produto('Mostarda', 50, 3));
 foreach($c1->getItens() as $item) {
     print 'Item: '.$item->getDescricao().'<br>'.PHP_EOL;
 }
+
