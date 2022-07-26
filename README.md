@@ -21,7 +21,7 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 14. Arrays [...]
 
 
-## Capítulo 02 POO
+## Capítulo 02 POO :white_check_mark:
 
 1. Relacionamento entre objetos
 2. Polimorfismo
@@ -32,10 +32,9 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 7. Design Pattern
     - 7.1. Singleton
 
-## Capítulo 03 Do estrutura à orientação a objetos
+## Capítulo 03 Do estrutura à orientação a objetos :white_check_mark:
 1. CRUD
 
 ## Capítulo 04 Tópicos especiais em orientação a objetos
-
 
 
