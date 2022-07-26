@@ -33,8 +33,10 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
     - 7.1. Singleton
 
 ## Capítulo 03 Do estrutura à orientação a objetos :white_check_mark:
+
 1. CRUD
 
 ## Capítulo 04 Tópicos especiais em orientação a objetos
 
+1. Tratamento de exceções
 
