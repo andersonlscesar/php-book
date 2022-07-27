@@ -8,6 +8,8 @@
  * e sem muitos detalhes sobre. Também é uma metodologia não muito recomendada.
  * 
  * Por fim, usaremos as exceptions como tratamento / Lançamento de erros. São métodos mais indicados, tendo em vista que podemos ter mensagens de erros mais precisas.
+ * 
+ * 
  */
 
 
