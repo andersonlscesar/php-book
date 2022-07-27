@@ -27,6 +27,7 @@ class Titulo {
         print "Tentou gravar {$prop} = {$valor}. Use o método adequado";
     }
     
+    
 }
 
 $titulo = new Titulo;
