@@ -9,7 +9,7 @@
  * 
  * Por fim, usaremos as exceptions como tratamento / Lançamento de erros. São métodos mais indicados, tendo em vista que podemos ter mensagens de erros mais precisas.
  * 
- * 
+ * Também podemos utilizar exceções especializadas. Permitem que façamos tratamentos diferenciados quando ocorrer uma exceção.
  */
 
 
@@ -25,13 +25,15 @@ class CSVParser {
 
     public function parse() {
         if(!file_exists($this->filename)) {
-            throw new Exception("Arquivo {$this->filename} não encontrado");
+            throw new FileNotFoundException("Arquivo {$this->filename} não encontrado");
+            // throw new Exception("Arquivo {$this->filename} não encontrado");
             // die("Arquivo {$this->filename} não existe");
             // return FALSE;
         }
 
         if(!is_readable($this->filename)) {
-            throw new Exception("Arquivo {$this->filename} não pode ser lido");
+            throw new FilePermissionException("Arquivo {$this->filename} não pode ser lido");
+            // throw new Exception("Arquivo {$this->filename} não pode ser lido");
             // die("Arquivo {$this->filename} sem permissão");
             // return FALSE;
         }
