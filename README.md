@@ -39,4 +39,5 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 ## Capítulo 04 Tópicos especiais em orientação a objetos
 
 1. Tratamento de exceções
+2. Métodos Mágicos
 
