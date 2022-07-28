@@ -41,3 +41,5 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 1. Tratamento de exceções
 2. Métodos Mágicos
 3. XML - Leitura de arquivos
+4. Manipulação de XML com DOM
+5. SPL
