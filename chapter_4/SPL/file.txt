@@ -1,0 +1,1 @@
+Standard PHP Library (SPL) é uma coleção de interfaces, classes e funções, que oferecem soluções para alguns problemas comuns, além disso, permite que os desenvolvedores trabalhem de maneira padronizada, aproveitando funcionalidades internas da linguagem, por exemplo, criar objetos que são capazes de trabalhar como um array ou ser percorrido através do construtor foreach().
