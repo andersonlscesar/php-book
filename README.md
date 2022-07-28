@@ -32,7 +32,7 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 7. Design Pattern
     - 7.1. Singleton
 
-## Capítulo 03 Do estrutura à orientação a objetos :white_check_mark:
+## Capítulo 03 Do estruturado à orientação a objetos :white_check_mark:
 
 1. CRUD
 
@@ -43,3 +43,5 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 3. XML - Leitura de arquivos
 4. Manipulação de XML com DOM
 5. SPL
+    - 5.1 Manipulação de Filas (SPL)
+    - 5.2 Manipulação de Pilhas (SPL)
