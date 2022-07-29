@@ -1,7 +1,7 @@
 <?php
 
 class Record {
-    const TABLENAME = ;
+    const TABLENAME = '' ;
     protected array $data;
 
     public function __set($prop, $value) {
