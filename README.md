@@ -45,3 +45,8 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 5. SPL
     - 5.1 Manipulação de Filas (SPL)
     - 5.2 Manipulação de Pilhas (SPL)
+    - 5.3 Manipulando Arrays
+    - 5.4 ReflectionClass
+    - 5.5 ReflectionMethod
+    - 5.6 ReflectionProperty
+6. Traits
