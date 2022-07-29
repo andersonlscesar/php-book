@@ -1,0 +1,6 @@
+PHP Framework Interop Group (PHP-FIG) é um grupo formado por desenvolvedores da comunidade PHP em 2009. O objetivo inicial do grupo era definir recomendações que fossem aplicadas aos Frameworks PHP participantes e facilitasse a interoperabilidade entre os frameworks que cresciam rapidamente.
+
+Ao passar do tempo o grupo começou a perceber que as recomendações poderiam ser úteis em outros tipos de aplicações, não somente em frameworks, já que a linguagem PHP possui grandes CMSs como Wordpress, Magento, Drupal, Joomla e diversos outros. Com isso o grupo ganhou membros também de outros tipos de projetos, não somente Frameworks.
+
+As recomendações precisam ser votadas e aprovada pelos membros do PHP-FIG para que possam ter validade. Somente membros podem votar, porém qualquer desenvolvedor da comunidade que queira participar das discussões pode, basta entrar nos canais de contato do PHP-FIG.
+
