@@ -36,7 +36,7 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 
 1. CRUD
 
-## Capítulo 04 Tópicos especiais em orientação a objetos
+## Capítulo 04 Tópicos especiais em orientação a objetos :white_check_mark:
 
 1. Tratamento de exceções
 2. Métodos Mágicos
