@@ -50,3 +50,8 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
     - 5.5 ReflectionMethod
     - 5.6 ReflectionProperty
 6. Traits
+
+## Capítulo 04 Tópicos especiais em orientação a objetos 
+1. Persistência - Padrões de projeto para que os dados persistam
+    - 1.1 Table Data Gateway
+
