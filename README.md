@@ -60,5 +60,6 @@ Este diretório foi criado no intuito de salvar os principais assuntos sobre PHP
 ## Capítulo 05 Apresentação e controle :white_check_mark:
 1. MVC (Model, View, Controller) 
 
-## Formulários e listagens
+## Capítulo 07 Formulários e listagens
+1. Decorated
 
