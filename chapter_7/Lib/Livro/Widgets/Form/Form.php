@@ -80,6 +80,6 @@ class Form
             $object->$key = $content['tmp_name'];
         }
 
-        return $object;
+        return $object ;
     }
 }
