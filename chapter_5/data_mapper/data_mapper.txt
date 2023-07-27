@@ -1,3 +1,0 @@
-In Data Mapper a model is just a model. It is a class that represents business logic and incorporates both behavior and data. There is a layer of code that separates the in-memory objects from the database. It does not know how and where it will persist.
-
-So you have a separate layer that is responsible for transferring data between code and database. It should also take care about isolating them. To that end, Data Mapper provides flexibility and what is more important – independence.
