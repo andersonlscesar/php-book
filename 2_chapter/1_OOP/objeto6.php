@@ -17,7 +17,7 @@ class Produto
 
     public function __destruct()
     {
-        print "DESTRUÍDO: Objeto: {$this->descricao}, estoque {$this->estoque}, preço {$this->preco}" . PHP_EOL;
+        print "DESTRUÍNDO: Objeto: {$this->descricao}, estoque {$this->estoque}, preço {$this->preco}" . PHP_EOL;
     }
 }
 

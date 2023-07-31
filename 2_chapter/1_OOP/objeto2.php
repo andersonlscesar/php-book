@@ -14,6 +14,7 @@ class Produto
     public function diminuirEstoque($unidades)
     {
         if (is_numeric($unidades) AND $unidades >= 0) {
+
             $this->estoque -= $unidades;
         }
     }
